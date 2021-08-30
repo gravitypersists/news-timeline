@@ -28,10 +28,13 @@
 
 <style>
   section {
+    display: flex;
+    align-items: flex-start;
     margin: 1px 0;
+    height: 150px;
   }
   .day-label {
-    height: 100px;
+    align-self: stretch;
     color: #4ebeff;
     background-color: #f2faff;
     width: 26px;
@@ -39,9 +42,10 @@
     border-color: #4ebeff;
     border-radius: 4px;
     text-align: center;
-    line-height: 100px;
+    line-height: 150px;
+    margin-right: 10px;
   }
   .day-stories {
-
+    align-self: center;
   }
 </style>
