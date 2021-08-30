@@ -20,6 +20,7 @@
     color: inherit;
     display: block;
     text-decoration: none;
+    padding: 1px;
   }
   img {
     display: inline;
