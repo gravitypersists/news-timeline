@@ -19,6 +19,8 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "dayjs": "^1.10.6",
+    "ramda": "^0.27.1",
     "sirv-cli": "^1.0.0"
   }
 }

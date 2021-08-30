@@ -22,9 +22,16 @@
     text-decoration: none;
   }
   img {
-    display: inline
+    display: inline;
+    height: 50px;
+    width: 50px;
+    vertical-align: bottom;
+    border-radius: 5px;
   }
   h2 {
     display: inline;
+    font-size: 20px;
+    line-height: 50px;
+    font-family: "serif"
   }
 </style>
